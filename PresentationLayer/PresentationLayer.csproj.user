@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios\CheckIn\FormCheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\CheckIn\FormCrearCheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\CheckOut\FormCheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\CheckOut\FormCrearCheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Dashboard\FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Personas\FormCrearPersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Personas\FormPersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Registros\FormCrearRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Registros\FormRegistros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Reservas\FormCrearReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Reservas\FormReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
